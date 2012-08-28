@@ -1,6 +1,6 @@
 #!/bin/sh
 # first create a github repo and copy the url
-# ./git-existing-project project-directory github-repo-url
+# ./git-existing-project.sh project-directory github-repo-url
 # 
 
 cd $1
